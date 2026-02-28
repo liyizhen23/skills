@@ -1,0 +1,11 @@
+??/?? || Enhanced biohydrogen production from food waste using immobilized Enterococcus faecalis isolate VT-H1 || RENEWABLE ENERGY
+???? || Multi-parameter coupling manipulations for enhancing mass transfer uniformity and electrochemical performance of parallel flow fields in proton exchange membrane fuel cells || JOURNAL OF POWER SOURCES
+?? || Critical review on improved hybrid deep learning modeling strategies for online battery state of charge estimation in large-scale energy storage systems || JOURNAL OF POWER SOURCES
+??? || Slowing, narrowing, and closing material flows: Impacts on metal demands in wind and solar power || SUSTAINABLE PRODUCTION AND CONSUMPTION
+?? || Synergistic role of pH in tailoring the photovoltaic response of Myristica fragrans based DSSCs || SOLAR ENERGY
+?? || A review of microplastics stress on nitrogen conversion and nitrous oxide emissions from biological wastewater treatment: Efficiency, mechanism and prospects || SCIENCE OF THE TOTAL ENVIRONMENT
+??? || Investigating microplastic release from plastic grinder heads during salt grinding || SCIENCE OF THE TOTAL ENVIRONMENT
+?? || Recycling strategies for decommissioned wind turbine blades: advances, challenges, and prospects || RESOURCES, CONSERVATION AND RECYCLING
+?/?? || Cobalt phthalocyanine/activated carbon enables deposits regulation toward long life-span rechargeable lithium/thionyl chloride batteries || JOURNAL OF POWER SOURCES
+?? || A climate-responsive anthropogenic heat flux framework integrating energy demand to improve extreme event simulation across climate zones || SUSTAINABLE CITIES AND SOCIETY
+???? || Novel hybrid control of high-speed flywheel energy storage using modular multilevel converter in a DC power system || INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
