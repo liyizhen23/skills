@@ -1,4 +1,0 @@
-interface:
-  display_name: "Journal DB Summary Report"
-  short_description: "Summarize recent journal DB papers"
-  default_prompt: "Use $journal-db-summary-report to summarize recent journal database uploads."
