@@ -1,0 +1,615 @@
+{
+  "start_time": "2026-02-26T04:52:45.049069+00:00",
+  "count": 36,
+  "rows": [
+    {
+      "id": "96c026b4-6dab-4c94-bb3a-bd673cf09857",
+      "journal": "WATER RESEARCH",
+      "title": "Biochar reduces road-salt-induced osmotic stress and improves plant water availability in green stormwater infrastructure",
+      "authors": [
+        "Maxwell T. Finnegan",
+        "Ganesh Khatei",
+        "Lucy Archibald",
+        "Tobia Rinaldo",
+        "Joshua S. Caplan",
+        "R. Scott Van Pelt",
+        "Sanjay K. Mohanty",
+        "Paolo D’Odorico",
+        "Sujith Ravi"
+      ],
+      "doi": "10.1016/j.watres.2026.125598",
+      "date": "2026-05",
+      "created_at": "2026-02-26T20:05:28.198030+00:00",
+      "abstract": null
+    },
+    {
+      "id": "fc66d5d1-a67b-481d-b630-f17f1a9cd191",
+      "journal": "WASTE MANAGEMENT",
+      "title": "Towards sustainable fiber engineering: impact of recycled polyethylene terephthalate (PET) content on bi-component filament properties",
+      "authors": [
+        "Kaoutar Abdel-Mouttalib",
+        "Ayoub Nadi",
+        "Abdelowahed Hajjaji",
+        "Omar Cherkaoui",
+        "Samira Touhtouh"
+      ],
+      "doi": "10.1016/j.wasman.2026.115417",
+      "date": "2026-04",
+      "created_at": "2026-02-26T20:05:24.899204+00:00",
+      "abstract": null
+    },
+    {
+      "id": "fd60a577-0c9d-4946-882a-f329b514d372",
+      "journal": "THE ISME JOURNAL",
+      "title": "Resistance variation and bacterial interactions shape adaptation of a genetically diverse pathogen population to antibiotic therapy",
+      "authors": [
+        "Aditi Batra",
+        "Leif Tueffers",
+        "Kira Haas",
+        "Tabea Loeblein",
+        "João Botelho",
+        "Michael Habig",
+        "Daniel Schuetz",
+        "Gabija Sakalyte",
+        "Florian Buchholz",
+        "Ernesto Berríos-Caro",
+        "Hildegard Uecker",
+        "Daniel Unterweger",
+        "Hinrich Schulenburg"
+      ],
+      "doi": "10.1093/ismejo/wrag039",
+      "date": "2026-02",
+      "created_at": "2026-02-26T20:05:18.949322+00:00",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Antimicrobial resistance poses a major threat to global human health. The emergence and spread of antimicrobial resistance is usually studied for single pathogen lineages. Therefore, we currently have only limited knowledge on the causes and dynamics of resistance evolution in polymicrobial or multi-strain infections that involve different pathogen species or strains, respectively, even though these kinds of infections are widespread. To address these current knowledge gaps, we here used the opportunistic human pathogen Pseudomonas aeruginosa as a model to investigate how antimicrobial resistance evolves in populations with different genetically distinct strains (multi-strain communities). By using controlled evolution experiments, extensive phenotyping and genome sequence analysis, we demonstrate that the response to antibiotic selection is shaped by a combination of strain-specific resistance profiles, ecological interactions between strains, and metapopulation structure. Moreover, the likelihood of de novo resistance evolution varied in dependence on mutation rates for resistance. A second independent evolution experiment emphasized the central role of strain variation and strain-strain interactions during adaptation. We conclude that antimicrobial resistance evolution in genetically diverse pathogen populations is driven by the interplay of ecological and evolutionary dynamics, thus deserving particular attention during treatment of polymicrobial infections.</jats:p>"
+    },
+    {
+      "id": "a11a4ede-4e42-48fd-9048-cae1f2441472",
+      "journal": "SUSTAINABLE CITIES AND SOCIETY",
+      "title": "Quantifying the potential uncertainty and development suitability of sandstone porous geothermal reservoirs for urban heating in northwestern Shandong plain, China",
+      "authors": [
+        "Yixiang He",
+        "Pengpeng Ding",
+        "Ziyang Tian",
+        "Jiaxian Yan",
+        "Shaohua Liu"
+      ],
+      "doi": "10.1016/j.scs.2026.107258",
+      "date": "2026-04",
+      "created_at": "2026-02-26T20:05:00.257999+00:00",
+      "abstract": null
+    },
+    {
+      "id": "4c96dfc2-70c3-4b33-9184-62120f8977f6",
+      "journal": "SCIENCE OF THE TOTAL ENVIRONMENT",
+      "title": "Advances in air quality modeling through artificial intelligence, machine learning, and deep learning: A comprehensive review",
+      "authors": [
+        "Delaney Nelson",
+        "Yunsoo Choi",
+        "Mahsa Payami",
+        "Deveshwar Singh",
+        "Rijul Dimri",
+        "Sagun Gopal Kayastha",
+        "Shihab Shahriar",
+        "Rashik Islam",
+        "Ahmed Khan Salman",
+        "Jincheol Park"
+      ],
+      "doi": "10.1016/j.scitotenv.2026.181593",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:04:49.579036+00:00",
+      "abstract": null
+    },
+    {
+      "id": "a9d2e6c1-094d-4600-a6e5-3c2a076b8a38",
+      "journal": "SCIENCE OF THE TOTAL ENVIRONMENT",
+      "title": "Editor's note to “Source identification and component characterization of dissolved organic matter in an acid mine drainage reservoir” [Sci. Total Environ. 739 (2020), 139732]",
+      "authors": [
+        "Jin Wang",
+        "Siyu Zhang",
+        "Chen He",
+        "Xin Pan",
+        "Yunyun Li",
+        "Rui Shao",
+        "Quan Shi",
+        "Zhengbo Yue"
+      ],
+      "doi": "10.1016/j.scitotenv.2026.181571",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:04:49.579036+00:00",
+      "abstract": null
+    },
+    {
+      "id": "a6ea169a-2ee3-4824-afd8-46fbf3db67b2",
+      "journal": "REVIEWS IN ENVIRONMENTAL SCIENCE AND BIO/TECHNOLOGY",
+      "title": "Acid phosphatases in the context of the global phosphorus cycle",
+      "authors": [
+        "María-Isabel Recio",
+        "Juan-Luis Ramos"
+      ],
+      "doi": "10.1007/s11157-026-09770-w",
+      "date": "2026-02",
+      "created_at": "2026-02-26T20:04:45.645144+00:00",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Phosphorus is an essential yet limited element that regulates biological productivity and ecological balance within the Earth’s interconnected biogeochemical systems. Its transformations link the lithosphere, hydrosphere, and biosphere; however, the absence of a gaseous phase makes phosphorus one of the least mobile nutrients. Microorganisms play a pivotal role in maintaining its bioavailability through mineralization, solubilization, and redox reactions. Geological and biological evidence demonstrates that fluctuations in phosphorus availability have profoundly influenced ocean oxygenation, biological diversification, and ecosystem evolution. Human activities such as mining, deforestation, and fertilizer overuse have intensified phosphorus fluxes, leading to eutrophication, soil depletion, and disruption of natural nutrient cycles. Understanding phosphorus mobilization, storage, and microbial mediation is essential for advancing sustainable nutrient management. In soils and aquatic environments, phosphorus mobility is governed by the interplay between immobilization and microbial mobilization. Immobilization occurs via biological uptake, storage in organic forms, and mineral precipitation as apatite. Mobilization is driven by phosphate-solubilizing microorganisms in the rhizosphere. These microorganisms secrete organic acids, metallophores, and phosphatases that convert insoluble compounds into available orthophosphate. Root exudates and regulatory systems such as the Pho regulon coordinate microbial and plant phosphorus acquisition thus, sustaining soil fertility and productivity. Alkaline and acid phosphatases are enzymes that hydrolyze organophosphorus compounds, releasing orthophosphate. Their structural and mechanistic diversity underpins their ecological versatility. Detailed bioinformatic analysis have identified three classes of bacterial acid phosphatases and at least eight major clades of fungal phosphatases. Beyond their environmental role, these enzymes offer promising applications in biotechnology.</jats:p>"
+    },
+    {
+      "id": "9c85f145-430f-4dc3-83d3-b8699816ebed",
+      "journal": "RENEWABLE AND SUSTAINABLE ENERGY REVIEWS",
+      "title": "A game theory approach for the construction of a green and sustainable power grid",
+      "authors": [
+        "Ali Hamidoğlu",
+        "Liubov Sysoeva",
+        "Russell Milne",
+        "Hao Wang"
+      ],
+      "doi": "10.1016/j.rser.2026.116856",
+      "date": "2026-06",
+      "created_at": "2026-02-26T20:04:34.362099+00:00",
+      "abstract": null
+    },
+    {
+      "id": "85174da9-aa64-48ca-a4ab-3854fbb904c0",
+      "journal": "RENEWABLE AND SUSTAINABLE ENERGY REVIEWS",
+      "title": "Extending battery lifecycles: A holistic review of second-life lithium-ion technology in sustainable energy systems from assessment to emerging trends",
+      "authors": [
+        "Md Shahriar Nazim",
+        "Rajvikram Madurai Elavarasan"
+      ],
+      "doi": "10.1016/j.rser.2026.116848",
+      "date": "2026-06",
+      "created_at": "2026-02-26T20:04:34.362099+00:00",
+      "abstract": null
+    },
+    {
+      "id": "489d6db9-5244-4c99-9224-f1214602e63a",
+      "journal": "JOURNAL OF INDUSTRIAL ECOLOGY",
+      "title": "Enhancing regional resilience for energy price shocks: efficient gas use and upstream decarbonization",
+      "authors": [
+        "Sacha den Nijs",
+        "Mark Thissen"
+      ],
+      "doi": "10.1007/s44498-026-00009-z",
+      "date": "2026-02",
+      "created_at": "2026-02-26T20:03:45.629712+00:00",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Resilience and competitiveness in relation to fossil energy dependencies is of increasing concern to industries and policy makers. We investigate to what extent the competitive position of industries in European regions are sensitive to changes in fossil fuel prices, and whether reductions in gas use along the value chain may increase resilience of regional industry. A new spatial revealed cost competition model based on the input–output price model is used and calibrated to multi-regional world input–output tables on an EU NUTS 2 level. We obtain elasticities of fossil fuel prices on revealed cost competitiveness and analyse how resilience can be enhanced by increasing efficiency and electrification in production. We show that European regions are resilient to global coal price increases, but are vulnerable to gas price shocks. The transition towards using less gas in production, by efficiency improvements or electrification, can reduce these gas price vulnerabilities. However, when competitors become more efficient instead, the vulnerability to such shocks may increase. Decarbonizing upstream sectors like electricity generation in the own region, own country or in Europe, can increase resilience of downstream industrial sectors in most European regions.</jats:p>"
+    },
+    {
+      "id": "18023a0c-1721-41f1-a014-0d7ba29ada28",
+      "journal": "JOURNAL OF INDUSTRIAL ECOLOGY",
+      "title": "Unveiling households’ vulnerabilities across regions and generations in Spain: a carbon tax and compensation approach",
+      "authors": [
+        "Marina Sánchez-Serrano",
+        "Guadalupe Arce",
+        "Jorge Zafrilla",
+        "Luis A. López"
+      ],
+      "doi": "10.1007/s44498-026-00019-x",
+      "date": "2026-02",
+      "created_at": "2026-02-26T20:03:45.629712+00:00",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This study investigates the distributive effects of carbon taxation on household consumption in Spain, with a particular focus on regional and demographic disparities. By applying a multiregional input–output model across Spain’s seventeen autonomous communities and incorporating household heterogeneity, the paper evaluates the regressivity of a carbon tax imposed on all emissions embodied in final household demand. The analysis simulates a carbon tax of €100 per ton of CO₂, assuming full pass-through to consumer prices, resulting in an average increase of 3.9% in household expenditure. The findings confirm the regressive nature of the tax, as households in lower-expenditure and less densely populated regions experience a disproportionately higher burden. Moreover, the study reveals demographic variations: younger households are more affected by transport-related taxes, while older households face greater impacts from housing-related emissions, regardless of household composition.To address these inequalities, the paper explores various compensation mechanisms. It demonstrates that while incorporating social criteria—such as household structure or age—can reduce regressivity, these measures alone are insufficient. A more equitable outcome requires the integration of economic variables into the design of compensation schemes. The study concludes that public acceptance of carbon taxation hinges on the implementation of well-targeted, transparent, and economically informed redistribution policies. These findings contribute to the broader discourse on climate policy by highlighting the importance of balancing environmental objectives with social equity considerations in the design of fiscal instruments.</jats:p>"
+    },
+    {
+      "id": "d0aebca6-6ff6-4a1d-a6d1-a61bf2fe7a5d",
+      "journal": "JOURNAL OF HAZARDOUS MATERIALS",
+      "title": "Comparative toxicity of green and chemically synthesized silver nanoparticles in developing zebrafish: A step toward sustainable nanotechnology",
+      "authors": [
+        "Rafaella Silva Brito",
+        "Lívia Pitombeira de Figueirêdo",
+        "Paula Sampaio Araújo",
+        "Bianca Leite Carnib",
+        "Eloiza da Silva Nunes",
+        "Thiago Lopes Rocha"
+      ],
+      "doi": "10.1016/j.jhazmat.2026.141561",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:42.358067+00:00",
+      "abstract": null
+    },
+    {
+      "id": "49fac948-604b-495a-ad71-a8d5da83f246",
+      "journal": "JOURNAL OF HAZARDOUS MATERIALS",
+      "title": "Indoor airflow effect on the detectability of airborne pathogens: Simulation with computational fluid dynamics and validation with field PCR measurements",
+      "authors": [
+        "Sanggwon An",
+        "Sangsoo Choi",
+        "Gihyeon Yu",
+        "Jiwoo Jung",
+        "Jungho Hwang"
+      ],
+      "doi": "10.1016/j.jhazmat.2026.141591",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:42.358067+00:00",
+      "abstract": null
+    },
+    {
+      "id": "995e9eb5-7c25-46c0-885a-c5a6ddd852ba",
+      "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+      "title": "Recent advancement of metal-containing catalysts for the environmental remediation of nitro aromatics and organic dyes from wastewater",
+      "authors": [
+        "Abu Taha",
+        "Athar Adil Hashmi"
+      ],
+      "doi": "10.1016/j.jenvman.2026.129132",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:38.270065+00:00",
+      "abstract": null
+    },
+    {
+      "id": "3b659a3a-fc6b-4556-b2ce-fa536dbccdf0",
+      "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+      "title": "Dialogue between palace and land—rain garden and hydrological restoration strategies for sustainable landscape renewal at the Alhambra",
+      "authors": [
+        "Jing Zhang"
+      ],
+      "doi": "10.1016/j.jenvman.2026.129088",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:38.270065+00:00",
+      "abstract": null
+    },
+    {
+      "id": "a3562ffc-4cfa-49a7-8f3b-810c2af15a26",
+      "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+      "title": "A high-performance polymer-modified bentonite liner for sustainable landfills: from systematic optimization to field validation",
+      "authors": [
+        "Wei Yang",
+        "Rong Zhou",
+        "Yifei He",
+        "Xueying Liu",
+        "Mengjian Ren",
+        "Anna Lushnikova"
+      ],
+      "doi": "10.1016/j.jenvman.2026.129136",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:38.270065+00:00",
+      "abstract": null
+    },
+    {
+      "id": "3d68b5c5-6b26-47ef-8a84-c8fb5b02901b",
+      "journal": "JOURNAL OF CLEANER PRODUCTION",
+      "title": "From vouchers to infrastructure: Rethinking policy for repair in the circular economy",
+      "authors": [
+        "Magdolna Molnár",
+        "Melanie Jaeger-Erben"
+      ],
+      "doi": "10.1016/j.jclepro.2026.147858",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:30.181629+00:00",
+      "abstract": null
+    },
+    {
+      "id": "4a7808ee-afe9-46d3-ae9e-4f9a702361a0",
+      "journal": "JOURNAL OF CLEANER PRODUCTION",
+      "title": "Soft actor–critic two-stage joint optimization for carbon-aware scheduling and allowance procurement under market uncertainty in internet data centers",
+      "authors": [
+        "Qingxun Wu",
+        "Wen-Ting Lin",
+        "Guo Chen",
+        "Xiaojun Zhou",
+        "Tingzhen Ming",
+        "Yuhan Huang"
+      ],
+      "doi": "10.1016/j.jclepro.2026.147822",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:30.181629+00:00",
+      "abstract": null
+    },
+    {
+      "id": "421aaf62-095c-4eb1-b410-813cb58ff79b",
+      "journal": "JOURNAL OF CLEANER PRODUCTION",
+      "title": "A transparent bamboo with superior ultraviolet-resistance and thermal-insulating capacity towards durable sustainable buildings",
+      "authors": [
+        "Xishuan Fang",
+        "Chengliang Zhou",
+        "Xingong Li"
+      ],
+      "doi": "10.1016/j.jclepro.2026.147810",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:30.181629+00:00",
+      "abstract": null
+    },
+    {
+      "id": "25059060-cf69-4350-a534-ad0c847a1414",
+      "journal": "INTERNATIONAL JOURNAL OF HYDROGEN ENERGY",
+      "title": "Kinetic insights into the inflection-point surge of explosion severity in hydrogen-enriched natural gas: From methane-dominated to chain-branching regimes",
+      "authors": [
+        "Wei He",
+        "Ruikang Li",
+        "Jian Qin",
+        "Zhenmin Luo",
+        "Zhongni Liao",
+        "Yuanping Gan"
+      ],
+      "doi": "10.1016/j.ijhydene.2026.154189",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:03:19.013205+00:00",
+      "abstract": null
+    },
+    {
+      "id": "734bb07b-f003-43ca-aaf9-aac850f9cbda",
+      "journal": "GLOBAL ENVIRONMENTAL CHANGE",
+      "title": "Bringing fairness also into carbon removal shares of countries is essential for a just transition",
+      "authors": [
+        "Julia Danzer",
+        "Gottfried Kirchengast"
+      ],
+      "doi": "10.1016/j.gloenvcha.2026.103114",
+      "date": "2026-05",
+      "created_at": "2026-02-26T20:02:25.756204+00:00",
+      "abstract": null
+    },
+    {
+      "id": "d5cb679d-b57d-4206-a266-3e39768fc7d7",
+      "journal": "FUEL",
+      "title": "Recent advancements in catalytic processes for plastic upcycling into fuels: a major step in sustainable waste management and energy production",
+      "authors": [
+        "Sudipta Nayak",
+        "Rajat Singhal",
+        "S.M.A. Hakim Siddiki",
+        "Ken Motokura",
+        "Navya Subray Bhat",
+        "Navneet Kumar Gupta"
+      ],
+      "doi": "10.1016/j.fuel.2026.138783",
+      "date": "2026-09",
+      "created_at": "2026-02-26T20:02:15.671207+00:00",
+      "abstract": null
+    },
+    {
+      "id": "344b9599-38b4-4ccc-b099-4d85343efeb8",
+      "journal": "EVOLUTION",
+      "title": "Experimental evolution in communities: beyond pairwise interactions",
+      "authors": [
+        "Vincent Montbel",
+        "Jan Hrcek"
+      ],
+      "doi": "10.1093/evolut/qpag029",
+      "date": "2026-02",
+      "created_at": "2026-02-26T20:02:03.290363+00:00",
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Experimental evolution is a powerful method that has been instrumental for revealing core mechanisms of adaptation and coevolution. It has mostly been used in very simple settings of one or two species. Yet, it is now increasingly being employed in more complex community settings that include indirect effects, higher-order interactions, and multidimensional selection typical of natural communities. Here we synthesize the emerging field of experimental evolution in communities and show how community context reshapes selection and evolutionary trajectories, beyond what single-species or pairwise designs predict. We conducted a systematic literature survey targeting multi-species, multi-generation evolution, identifying 100 such studies with the number increasing recently. Despite this progress, most experiments are biased toward microbial systems and competitive interactions, leaving major gaps for predicting evolution in realistic communities. We discuss community ecology concepts in the light of experimental evolution, together with designs that address these concepts. We emphasize three main research areas: indirect and higher-order interactions that make selection multidimensional, eco-evolutionary feedbacks linking trait change to community dynamics, and genetic constraints that shape responses across interaction networks. We then discuss routes to increase ecological realism with field experiments and conclude by outlining key research fronts for experimental evolution in communities.</jats:p>"
+    },
+    {
+      "id": "9e1d9ce1-8f60-4cb5-a2a1-389bdb40368d",
+      "journal": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+      "title": "Accelerated Photolysis Mechanism of Neonicotinoids at the Air–Water Interface of Microdroplets",
+      "authors": [
+        "Ruobing Wang",
+        "Longgang Chu",
+        "Haoran Yu",
+        "Yicong Ma",
+        "Hong Chen",
+        "Zhaoyue Sun",
+        "Danning Lu",
+        "Zhanghao Chen",
+        "Davide Vione",
+        "Cheng Gu"
+      ],
+      "doi": "10.1021/acs.est.6c01880",
+      "date": "2026-02",
+      "created_at": "2026-02-26T20:01:52.276744+00:00",
+      "abstract": null
+    },
+    {
+      "id": "ee6690ee-8ff0-4bff-842d-e989338a4649",
+      "journal": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+      "title": "Correction to “Natural Gas and Biogenic CH\n                    <sub>4</sub>\n                    Emissions from an Urban Center, Sakai, Japan, Based on Simultaneous Measurements of CH\n                    <sub>4</sub>\n                    and C\n                    <sub>2</sub>\n                    H\n                    <sub>6</sub>\n                    fluxes Based on the Eddy Covariance Method”",
+      "authors": [
+        "Masahito Ueyama",
+        "Akira Nakaoka",
+        "Taku Umezawa",
+        "Yukio Terao",
+        "Mark Lunt"
+      ],
+      "doi": "10.1021/acs.est.6c01933",
+      "date": "2026-02",
+      "created_at": "2026-02-26T20:01:52.276744+00:00",
+      "abstract": null
+    },
+    {
+      "id": "4b5c656a-49d4-4a14-8e45-8291c42c7624",
+      "journal": "ENVIRONMENT INTERNATIONAL",
+      "title": "Long-term exposure to air pollution and 5-year mortality after lung cancer diagnosis: a Danish nurse cohort study",
+      "authors": [
+        "Sophie MA Effing",
+        "Jiawei Zhang",
+        "Stéphane Tuffier",
+        "Thomas Cole-Hunter",
+        "Marie Bergmann",
+        "George Maria Napolitano",
+        "Rina So",
+        "Jørgen Brandt",
+        "Matthias Ketzel",
+        "Steffen Loft",
+        "Jaime E Hart",
+        "Youn-Hee Lim",
+        "Zorana Jovanovic Andersen"
+      ],
+      "doi": "10.1016/j.envint.2026.110168",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:01:41.220615+00:00",
+      "abstract": null
+    },
+    {
+      "id": "319c4a45-ded3-45b4-8c9b-baa623385fb8",
+      "journal": "ENVIRONMENT INTERNATIONAL",
+      "title": "Paternal DEHP exposure impairs placental angiogenesis via inhibition of the zygotic Col1α1/Col1α2-Integrin α2β1 axis",
+      "authors": [
+        "Qi-meng Li",
+        "Die Hu",
+        "Ke Yin",
+        "Piao-ye Wu",
+        "Juan Hu",
+        "Xin-ming Chen",
+        "Shan-shan Wu",
+        "Xiao-lu Li",
+        "Xiao-yue Cai",
+        "Fei-yang Hou",
+        "Zhi-qiang Zhang",
+        "Min-yue He",
+        "Ying Fu",
+        "De-xiang Xu",
+        "Tao Xu",
+        "Ling-li Zhao"
+      ],
+      "doi": "10.1016/j.envint.2026.110162",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:01:41.220615+00:00",
+      "abstract": null
+    },
+    {
+      "id": "9dcd6627-7b19-4f6c-a57d-6f320e36fb14",
+      "journal": "ENERGY ECONOMICS",
+      "title": "How to sustainably spur R&amp;D of energy storage? Policy options and combinations",
+      "authors": [
+        "Haowei Jin",
+        "Ju-e Guo",
+        "Yanzhao Li",
+        "Shouyang Wang"
+      ],
+      "doi": "10.1016/j.eneco.2026.109226",
+      "date": "2026-03",
+      "created_at": "2026-02-26T20:01:31.344424+00:00",
+      "abstract": null
+    },
+    {
+      "id": "1b44b539-6696-4f7d-a799-5f0d79c5c71a",
+      "journal": "ENERGY CONVERSION AND MANAGEMENT",
+      "title": "Compact magnetohydrodynamic-enhanced cooling for dual photovoltaic-thermoelectric units: A finite element-proper orthogonal decomposition based modeling approach",
+      "authors": [
+        "Fatih Selimefendigil",
+        "Hakan F. Oztop"
+      ],
+      "doi": "10.1016/j.enconman.2026.121279",
+      "date": "2026-04",
+      "created_at": "2026-02-26T20:01:28.064845+00:00",
+      "abstract": null
+    },
+    {
+      "id": "f11113cb-5bd1-43cb-95f9-b374d9b05756",
+      "journal": "ECOSYSTEM SERVICES",
+      "title": "Room for the River: An extended cost benefit analysis of integrated river-floodplain management for the Rhine in the Netherlands",
+      "authors": [
+        "Sien Kok",
+        "Lars Hein",
+        "Solen le Clec’h",
+        "W.Ellis Penning",
+        "Anthonie D. Buijse"
+      ],
+      "doi": "10.1016/j.ecoser.2026.101830",
+      "date": "2026-04",
+      "created_at": "2026-02-26T20:01:14.714487+00:00",
+      "abstract": null
+    },
+    {
+      "id": "3d155b25-a439-49e2-bc0a-32924fea6835",
+      "journal": "ECOLOGICAL ECONOMICS",
+      "title": "Shades of green behaviour under heterogeneous subjective risk and social domains",
+      "authors": [
+        "Rocco Caferra",
+        "Andrea Morone",
+        "Piergiuseppe Morone"
+      ],
+      "doi": "10.1016/j.ecolecon.2026.108976",
+      "date": "2026-06",
+      "created_at": "2026-02-26T20:01:01.987340+00:00",
+      "abstract": null
+    },
+    {
+      "id": "fbff5118-4c35-4ca3-8540-2a07c26adb12",
+      "journal": "BIOLOGICAL CONSERVATION",
+      "title": "Evidence of long-term survival gains in Panthera from modern zoological facilities supports their role in integrated conservation",
+      "authors": [
+        "Rikke Øgelund Nielsen",
+        "Gabriela Mastromonaco",
+        "Sugoto Roy",
+        "Kristine Schad Eebes",
+        "Elmar Fienieg",
+        "Alexander Sliwa",
+        "Peter Müller",
+        "Sheila Roe",
+        "Candice Dorsey",
+        "Jilian Fazio",
+        "Andrew Haertzen",
+        "Marco Roller",
+        "Sandra E. Trautwein",
+        "Morgane Tidière"
+      ],
+      "doi": "10.1016/j.biocon.2026.111773",
+      "date": "2026-04",
+      "created_at": "2026-02-26T20:00:45.146050+00:00",
+      "abstract": null
+    },
+    {
+      "id": "135d57dc-4ebc-4047-b8eb-406e504fdc7e",
+      "journal": "BIOGEOSCIENCES",
+      "title": "Nutrient flows and biogeomorphic feedbacks: linking seabird guano to plant traits and morphological change on sandy islands",
+      "authors": [
+        "Floris F. van Rees",
+        "Laura L. Govers",
+        "Polina Guseva",
+        "Maarten P. A. Zwarts",
+        "Camille Tuijnman",
+        "Cornelis J. Camphuysen",
+        "Gerben Ruessink",
+        "Valérie C. Reijers"
+      ],
+      "doi": "10.5194/bg-23-1527-2026",
+      "date": "2026-02",
+      "created_at": "2026-02-26T20:00:41.770344+00:00",
+      "abstract": "<jats:p>Abstract. Vegetated coastal landscapes are crucial for carbon storage, shoreline protection, and biodiversity. Their structure emerges from biogeomorphic feedbacks between vegetation growth and sedimentation, shaped by environmental conditions. Allochthonous nutrient inputs, particularly seabird guano, can significantly influence plant growth and distribution, potentially altering these feedbacks. This suggests that coastal birds may actively shape their own habitat by modifying plant-sediment dynamics. Yet, as sea-level rise and coastal squeeze reduce available habitat for already declining bird populations, understanding these interactions becomes increasingly urgent, particularly on small, uninhabited islands that are geomorphically dynamic and whose nutrient budgets are dominated by allochthonous rather than locally produced nutrients. Despite this, spatially explicit studies on bird–plant–sediment interactions remain lacking. This study addresses that gap by examining how guano deposition influences plant traits, community composition, and landscape morphology. We combined fine-scale field data with remote sensing and spatial modelling to assess guano effects on vegetation and sedimentation. Field measurements included plant traits, community composition, environmental variables, and δ15N to trace guano uptake. A guano dispersion model was linked to PlanetScope and LiDAR data, and Bayesian models (INLA) revealed spatial links between guano, vegetation change, and sediment accretion. Results show that guano-derived nitrogen promotes shifts in species composition toward later-successional, sediment-stabilizing species, particularly on sandy soils with low baseline nutrient levels. Guano enhanced early-season vegetation productivity, increasing sediment retention, but seasonal differences and local environmental context modulated these effects. We propose that seabirds act as indirect ecosystem engineers by fuelling vegetation–sediment feedbacks. Changes in breeding pair numbers may therefore influence coastal landscape evolution, and ultimately, shape the very habitats these birds depend on.</jats:p>"
+    },
+    {
+      "id": "7a101418-e852-4f98-8869-e95750ad2edb",
+      "journal": "APPLIED THERMAL ENGINEERING",
+      "title": "A thermodynamics-based turbocharger matching method for large-displacement methanol engines considering in-cylinder air state and exhaust composition",
+      "authors": [
+        "Xianyu Jia",
+        "Yongfeng Liu",
+        "Lifeng Ma",
+        "Qisheng Zhang",
+        "Xiqing Zhang"
+      ],
+      "doi": "10.1016/j.applthermaleng.2026.130180",
+      "date": "2026-04",
+      "created_at": "2026-02-26T20:00:36.753524+00:00",
+      "abstract": null
+    },
+    {
+      "id": "c46010d5-a313-4af6-9803-8d771e6577c5",
+      "journal": "APPLIED THERMAL ENGINEERING",
+      "title": "Research on performance improvement of photovoltaic/thermal system based on series-parallel composite flow channel",
+      "authors": [
+        "Sheng Huang",
+        "Shijie Sun",
+        "Jun Lu",
+        "Shuli Liu",
+        "Yongcai Li",
+        "Wuyan Li",
+        "Zhihao Wang"
+      ],
+      "doi": "10.1016/j.applthermaleng.2026.130327",
+      "date": "2026-04",
+      "created_at": "2026-02-26T20:00:36.753524+00:00",
+      "abstract": null
+    },
+    {
+      "id": "94919273-158f-480c-ba5e-2c68910233f9",
+      "journal": "APPLIED THERMAL ENGINEERING",
+      "title": "Impingement cooling by high-speed air-jet arrays for the green quenching of turbine disc",
+      "authors": [
+        "Yahao Chen",
+        "Shengyu Liu",
+        "Renyou Zhang",
+        "Yingqi Hou",
+        "Jiaying Jiang",
+        "Zhibiao Wang",
+        "Zhuo Zhang",
+        "Kailun Zheng",
+        "Lei Zhao"
+      ],
+      "doi": "10.1016/j.applthermaleng.2026.130385",
+      "date": "2026-04",
+      "created_at": "2026-02-26T20:00:36.753524+00:00",
+      "abstract": null
+    }
+  ],
+  "topic": "AI"
+}
