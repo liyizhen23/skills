@@ -25,7 +25,7 @@ Use this reference as the canonical prompt and specification for the workflow.
 - `authors`: JSON array, e.g. `["张三", "李四"]`
 - `doi`: DOI identifier
 - `date`: Publication year-month (e.g. `"2023-08"`)
-- `createdtime`: timestamptz (used for time filtering; always use this field)
+- `created_at`: timestamptz (used for time filtering; always use this field)
 - `abstract`: Original abstract text (nullable)
 
 ## Query (Python + psycopg2)
@@ -46,10 +46,10 @@ conn = psycopg2.connect(
 )
 cursor = conn.cursor()
 cursor.execute("""
-    SELECT id, journal, title, authors, doi, date, createdtime, abstract
+    SELECT id, journal, title, authors, doi, date, created_at, abstract
     FROM journals
-    WHERE createdtime >= %s
-    ORDER BY createdtime DESC
+    WHERE created_at >= %s
+    ORDER BY created_at DESC
 """, (start_time,))
 rows = cursor.fetchall()
 ```
